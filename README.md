@@ -1,1 +1,1 @@
-This is a map of my favorite destinations in the world.
+A Map of my Favorite Destinations in the World.
